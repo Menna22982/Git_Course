@@ -1,4 +1,4 @@
 # Git_Course
-For Power Bi
+For Front_End
 
 ## project Notes
